@@ -15,21 +15,21 @@ O objetivo era praticar:
 ---
 
 ## 📁 Estrutura do Projeto
-
-/
-|**index.html
-|**style.css
-|\_\_README.md
+```bash
+|__index.html
+|__style.css
+|__README.md
+```
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-rounded&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) -> IDE para criação do código  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white)](https://git-scm.com/) -> Para fazer upload dos arquivos para o GitHub  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-rounded&logo=html5&logoColor=white) -> Estrutura da página  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-rounded&logo=css3&logoColor=white) -> Estilização da página  
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-rounded&logo=github&logoColor=white)](https://pages.github.com/) -> Hospedagem da página
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-rounded&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) → IDE para criação do código  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white)](https://git-scm.com/) → Para fazer upload dos arquivos para o GitHub  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-rounded&logo=html5&logoColor=white) → Estrutura da página  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-rounded&logo=css3&logoColor=white) → Estilização da página  
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-rounded&logo=github&logoColor=white)](https://pages.github.com/) → Hospedagem da página
 
 ---
 
@@ -43,12 +43,13 @@ git clone https://github.com/isalvesb/cafe-menu.git
 
 Depois, abra o `index.html` no seu navegador preferido
 
-🟣 GitHub Pages:
-[![Site - Café Menu](https://img.shields.io/badge/Café_Menu-C9A0DC?style=flat-rounded&logo=googlechrome&logoColor=white)](https://isalvesb.github.io/cafe-menu)
+🟣 GitHub Pages:  
+
+[![Site - Café Menu](https://img.shields.io/badge/Café_Menu-774723?style=flat-rounded&logo=googlechrome&logoColor=white)](https://isalvesb.github.io/cafe-menu)
 
 ---
 
-## 🆙 Possíveis Melhorias
+## 🎨 Possíveis Melhorias
 
 - Ajustar responsividade
 - Estilizar tipografia
@@ -60,3 +61,20 @@ Depois, abra o `index.html` no seu navegador preferido
 ---
 
 ## 👩‍💻 Desenvolvido por
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/eb89f7a9-3cb9-4699-9d42-9342764833d5" width="120px" style="border-radius:50%;" alt="avatar">
+      <br>
+      <b>Isa Alves</b>
+      <br><br>
+      <a href="mailto:alvesisamara@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-deb887?style=flat-rounded&logo=gmail&logoColor=white">
+        </a>
+      <a href="https://www.linkedin.com/in/isalvesb/" target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-774723?style=flat-rounded&logo=linkedin&logoColor=white">
+        </a>
+    </td>
+  </tr>
+</table>
