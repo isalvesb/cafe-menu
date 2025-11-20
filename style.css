@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1447933601403-0c6688de566e?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  margin: 0 auto;
+
+  background-repeat: no-repeat;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.ephesis-regular h1,
+h2 {
+  font-family: "Ephesis", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sree-krushnadevaraya-regular main,
+h1,
+body {
+  font-family: "Sree Krushnadevaraya", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #774723;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.menu {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: burlywood;
+  padding: 20px;
+  max-width: 500px;
+  border-radius: 20px;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.established {
+  font-style: italic;
+}
+
+hr {
+  height: 2px;
+  background-color: #f7ebdf;
+  border-color: #f7ebdf;
+  border: 100px;
+  border-radius: 100px;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+/*FOOTER*/
+
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: #674831;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #f7ebdf;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: #825a3c;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+}
