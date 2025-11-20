@@ -1,6 +1,9 @@
 # ☕ Café Menu
 
-Uma das minhas primeiras páginas web desenvolvidas!
+**Uma das minhas primeiras páginas web desenvolvidas!**
+
+---
+
 
 ## ✨ Sobre o Projeto
 
