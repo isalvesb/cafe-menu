@@ -38,15 +38,17 @@ O objetivo era praticar:
 
 ## ⚙️ Como rodar
 
-🟣 Localmente:
+ **Localmente:**
 
 ```bash
 git clone https://github.com/isalvesb/cafe-menu.git
 ```
 
-Depois, abra o `index.html` no seu navegador preferido
+Depois, abra o `index.html` no seu navegador preferido <br><br>
 
-🟣 GitHub Pages:  
+
+
+**GitHub Pages:**  
 
 [![Site - Café Menu](https://img.shields.io/badge/Café_Menu-774723?style=flat-rounded&logo=googlechrome&logoColor=white)](https://isalvesb.github.io/cafe-menu)
 
